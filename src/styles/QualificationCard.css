@@ -1,0 +1,16 @@
+.qual-card {
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-columns: 1fr 1.5rem 1fr;
+  grid-auto-rows: 100px;
+  text-align: start;
+  gap: 1.5rem;
+}
+
+.qual-card > img {
+  justify-self: center;
+}
+
+.qual-card-info {
+  padding-left: 2rem;
+}

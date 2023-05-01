@@ -1,0 +1,37 @@
+.projects-container {
+  /* background: no-repeat url(../assets/background/wave-contact.svg),
+    linear-gradient(#21272f 0%, #21272f 99.8%, #29d882 99.8%, #29d882 100%); */
+    background: no-repeat url(../assets/background/wave-dark.svg),
+    linear-gradient(#171c23 0%, #171c23 99.5%, #21272f 99.5%, #21272f 100%);
+  background-position: center bottom;
+}
+
+.projects-light {
+  /* background: no-repeat url(../assets/background/wave-contact.svg),
+    linear-gradient(#f1fcf9 0%, #f1fcf9 99.8%, #29d882 99.8%, #29d882 100%); */
+    background: no-repeat url(../assets/background/wave-light.svg),
+    linear-gradient(#ffff 0%, #ffff 99.5%, #f1fcf9 99.5%, #f1fcf9 100%);
+  background-position: center bottom;
+}
+
+.projects-wrapper {
+  display: grid;
+  max-width: 650px;
+  margin-inline: auto;
+  padding-top: 4rem;
+  padding-bottom: 10rem;
+  gap: 3rem;
+  text-align: center;
+}
+
+.project-card-container {
+  display: grid;
+  gap: 3rem;
+}
+
+@media (min-width: 40em) {
+  .projects-wrapper {
+    max-width: 1200px;
+    padding-top: 6rem;
+  }
+}

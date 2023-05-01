@@ -1,0 +1,38 @@
+.wrapper-container {
+  display: grid;
+  max-width: 650px;
+  margin-inline: auto;
+  place-content: center;
+  place-items: center;
+  gap: 2rem;
+}
+
+.illustImage {
+  align-self: center;
+  max-width: 450px;
+  width: 100%;
+}
+
+.about-info {
+  display: grid;
+  place-items: start;
+  place-content: center;
+  gap: 1rem;
+}
+
+.about-button-container {
+  display: flex;
+  gap: 1rem;
+}
+
+@media (min-width: 60em) {
+  .wrapper-container {
+    max-width: 1200px;
+    grid-template-columns: 1fr 1.4fr;
+    gap: 3rem;
+  }
+
+  .about-info {
+    gap: 2rem;
+  }
+}

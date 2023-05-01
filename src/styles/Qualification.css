@@ -1,0 +1,78 @@
+.qualification-container {
+  position: relative;
+  background: no-repeat url(../assets/background/wave-dark-skills.svg),
+    linear-gradient(#21272f 0%, #21272f 0.5%, #171c23 0.5%, #171c23 100%);
+  background-position: top;
+}
+
+.qualification-light {
+  background: no-repeat url(../assets/background/wave-light-skills.svg),
+    linear-gradient(#f1fcf9 0%, #f1fcf9 0.5%, #fff 0.5%, #fff 100%);
+  background-position: top;
+}
+
+.qualification-wrapper {
+  display: grid;
+  text-align: center;
+  max-width: 1200px;
+  margin-inline: auto;
+  gap: 3rem;
+  padding-block: 3rem 5rem;
+}
+
+.qualification-card-container {
+  display: grid;
+  gap: 4rem;
+  place-content: center;
+  place-items: center;
+}
+
+.init-logo-bar {
+  position: absolute;
+  width: 80%;
+  max-width: 350px;
+  border-radius: 10px;
+  border: rgba(255, 255, 255, 0.95) solid 3px;
+  background-color: var(--clr-secondary-500);
+  padding: 1rem 1rem;
+  left: 50%;
+  bottom: -100px;
+  transform: translate(-50%, -50%);
+}
+
+.logo-wrapper {
+  display: grid;
+  grid-auto-flow: column;
+
+  gap: 1.25rem;
+}
+
+@media (min-width: 40em) and (max-width: 55em) {
+  .init-logo-bar {
+    max-width: 500px;
+    bottom: -130px;
+    padding: 1.5rem 2rem;
+  }
+
+  .logo-wrapper {
+    gap: 3rem;
+  }
+}
+
+@media (min-width: 60em) {
+  .qualification-card-container {
+    grid-auto-flow: column;
+  }
+  .qualification-wrapper {
+    padding-block: 3rem 5rem;
+  }
+  .init-logo-bar {
+    max-width: 650px;
+    bottom: -150px;
+    padding: 1.5rem 3rem;
+  }
+
+  .logo-wrapper {
+    gap: 4rem;
+  }
+}

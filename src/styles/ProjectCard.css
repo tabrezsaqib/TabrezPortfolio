@@ -1,0 +1,41 @@
+.project-card {
+  display: grid;
+  gap: 2rem;
+  width: 85%;
+  max-width: 500px;
+  place-items: center;
+  margin-inline: auto;
+}
+
+.project-card > img {
+  border-radius: 10px;
+  width: 100%;
+}
+
+.project-info {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  justify-content: start;
+  text-align: start;
+}
+
+.project-description {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.project-links {
+  display: flex;
+  gap: 1rem;
+}
+
+@media (min-width: 60em) {
+  .project-card {
+    grid-auto-flow: column;
+    grid-template-columns: 400px 1fr;
+    gap: 3rem;
+    max-width: 1000px;
+    place-items: start;
+  }
+}

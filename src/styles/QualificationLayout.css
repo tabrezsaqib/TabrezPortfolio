@@ -1,0 +1,36 @@
+.qual-layout-container {
+  display: grid;
+  justify-items: center;
+  gap: 1rem;
+  position: relative;
+}
+
+.qual-list {
+  padding-top: 3rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.qual-connector {
+  position: absolute;
+  width: 1.5px;
+  height: 420px;
+  background-color: var(--clr-primary-800);
+  transform: translate(-50%, -50%);
+  left: 50%;
+  bottom: 400px;
+}
+
+.qual-connector.edu {
+  bottom: -788px;
+}
+
+@media (min-width: 55em) {
+  .qual-connector {
+    bottom: -193px;
+  }
+
+  .qual-connector.edu {
+    bottom: -193px;
+  }
+}
