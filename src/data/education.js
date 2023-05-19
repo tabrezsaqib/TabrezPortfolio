@@ -8,7 +8,7 @@ export const education = {
       title: "Professional Certificate",
       program: "Front-End Developer",
       institution: "JPM Edu Solutions",
-      year: "Oct 2022 - Present",
+      year: "Oct 2022 - Mar 2022",
     },
     {
       title: "Master's Degree, Engineering",

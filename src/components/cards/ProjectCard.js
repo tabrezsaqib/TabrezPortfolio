@@ -17,7 +17,7 @@ const PortfolioCard = ({ projectInfo }) => {
           </p>
         </div>
         <div class="project-links">
-          <button className="btn inverted">
+          {/* <button className="btn inverted">
             <a
               href={projectInfo.liveLink}
               className="uppercase"
@@ -26,7 +26,7 @@ const PortfolioCard = ({ projectInfo }) => {
             >
               Live Demo
             </a>
-          </button>{" "}
+          </button>{" "} */}
           <button className="btn inverted">
             <a
               href={projectInfo.codeLink}

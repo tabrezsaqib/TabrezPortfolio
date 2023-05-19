@@ -33,7 +33,7 @@ const About = () => {
             During my job at Accenture, I learned skills such as React.js, HTML5, CSS3, JavascriptES6, PL/SQL, Python, BI Publisher, EPIC Cadence, and Prelude which prove I am a quick and enthusiastic learner.
             Having worked on various projects during and outside my courses has sharpened my React skills and enlightened me on new and emerging tools such as Postman, Firestore to manage APIs. 
             I have assisted an innovation team back in Accenture to develop a mental health scan app for a client. 
-            I have also implemented Redux, CSS3, HTML5, React.js, JSON, and JavaScript ES6 on multiple projects such as Gym, Shopify, Adopt a Dog, To-Do App, and much more. 
+            I have also implemented Redux, CSS3, HTML5, React.js, JSON, and JavaScript ES6 on multiple projects such as Shopify, Adopt a Dog, To-Do App, and much more. 
           </p>
           <div className="about-button-container">
             <button className="btn inverted">

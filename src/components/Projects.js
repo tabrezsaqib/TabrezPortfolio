@@ -35,7 +35,7 @@ const Projects = () => {
       <div class="projects-wrapper">
         <div class="projects-title">
           <p className="uppercase fs-secondary-subheading fw-semi-bold">
-            Some of my recent work
+            My recent projects
           </p>
           <h2 className="fs-secondary-heading fw-bold text-primary">Projects</h2>
         </div>
