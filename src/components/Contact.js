@@ -88,7 +88,7 @@ const Contact = () => {
               <iframe
                 title="location"
                 style={{ height: "100%", width: "100%", border: 0 }}
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2773.8336440621893!2d-66.65357682501805!3d45.95460670058642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca42274b03b0abb%3A0x932219ae6864c03d!2s519%20York%20St%2C%20Fredericton%2C%20NB%20E3B%203R1!5e0!3m2!1sen!2sca!4v1681927390329!5m2!1sen!2sca"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2774.230044061824!2d-66.65099882516621!3d45.9466866011193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca422118e4965ff%3A0x820fb246fb1a16be!2s796%20Hanson%20St%2C%20Fredericton%2C%20NB%20E3B%204A4!5e0!3m2!1sen!2sca!4v1703875271602!5m2!1sen!2sca"
               />
             </div>
             <div

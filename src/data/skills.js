@@ -10,6 +10,9 @@ import json from "../assets/skills/JSON.png";
 import Postman from "../assets/skills/Postman.png";
 import Git from "../assets/skills/Git.png";
 import Redux from "../assets/skills/Redux.png"
+import WordPress from "../assets/skills/WordPress.png"
+import AWS from "../assets/skills/AWS.png"
+import Kubernetes from "../assets/skills/Kubernetes.png"
 
 export const skills = [
   {
@@ -29,19 +32,19 @@ export const skills = [
     logo: reactLogo,
   },
   {
-    title: "Firebase",
-    logo: firebaseLogo,
+    title: "AWS",
+    logo: AWS,
   },
   {
-    title: "JSON",
-    logo: json,
+    title: "Next",
+    logo: nextLogo,
   },
   {
-    title: "Postman",
-    logo: Postman,
+    title: "WordPress",
+    logo: WordPress,
   },
   {
-    title: "Redux",
-    logo: Redux,
+    title: "Kubernetes",
+    logo: Kubernetes,
   },
 ];

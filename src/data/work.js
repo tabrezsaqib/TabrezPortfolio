@@ -5,10 +5,10 @@ export const work = {
   icon: workIcon,
   list: [
     {
-      title: "UNB Libraries & Archives Assistant",
-      institution: "UNB Libraries, Arhives & Special Collections",
-      program: "Part & Full Time",
-      year: "Sep 2021 - Apr 2023",
+      title: "Web Developer",
+      institution: "Fredericton Botanical Garden Association",
+      program: "Part & Full Time - Contract Based",
+      year: "May 2023 - Mar 2024",
     },
     {
       title: "FPGA Design Intern",

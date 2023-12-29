@@ -1,8 +1,16 @@
 import shopifyThumbnail from "../assets/projects/Shopify.png"
 import dogThumbnail from "../assets/projects/Dog.png"
 import todoThumbnail from "../assets/projects/to-do.png"
+import plantsThumbnail from "../assets/projects/NBPlants.png"
 
 export const projects = [
+  {
+    title: "NB Plants Website",
+    thumbnail: plantsThumbnail,
+    info: "A graphic user interface for the Fredericton Botanical Garden Association using React.js, Next.js and WordPress to display the plants of New Brunswick.",
+    codeLink: "https://github.com/tabrezsaqib/devsite-latest",
+    // liveLink: "https://surriyaluavan.github.io/Fylo-landing-page/",
+  },
   {
     title: "Shopify App",
     thumbnail: shopifyThumbnail,
