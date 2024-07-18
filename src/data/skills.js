@@ -13,6 +13,10 @@ import Redux from "../assets/skills/Redux.png"
 import WordPress from "../assets/skills/WordPress.png"
 import AWS from "../assets/skills/AWS.png"
 import Kubernetes from "../assets/skills/Kubernetes.png"
+import Terraform from "../assets/skills/Terraform.png"
+import Ansible from "../assets/skills/Ansible.png"
+import Jenkins from "../assets/skills/Jenkins.png"
+import Docker from "../assets/skills/Docker.png"
 
 export const skills = [
   {
@@ -47,4 +51,21 @@ export const skills = [
     title: "Kubernetes",
     logo: Kubernetes,
   },
+  {
+    title: "Jenkins",
+    logo: Jenkins,
+  },
+  {
+    title: "Docker",
+    logo: Docker,
+  },
+  {
+    title: "Terraform",
+    logo: Terraform,
+  },
+  {
+    title: "Ansible",
+    logo: Ansible,
+  }
+
 ];

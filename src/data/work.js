@@ -8,7 +8,7 @@ export const work = {
       title: "Web Developer",
       institution: "Fredericton Botanical Garden Association",
       program: "Part & Full Time - Contract Based",
-      year: "May 2023 - Mar 2024",
+      year: "May 2023 - Present",
     },
     {
       title: "FPGA Design Intern",

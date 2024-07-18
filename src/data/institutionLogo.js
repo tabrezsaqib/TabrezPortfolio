@@ -5,8 +5,14 @@ import skctLogo from "../assets/qualifications/SKCT.png";
 import JPM from "../assets/qualifications/JPM.png";
 import Anna from "../assets/qualifications/Anna.png";
 import ACN from "../assets/qualifications/ACN.png";
+import FPGA from "../assets/qualifications/FPGA.png";
 
 export const institutionLogo = [
+  {
+    title: "Fredericton Botanical Garden Association",
+    logo: FPGA,
+    link: "https://www.frederictonbotanicgarden.com/",
+  },
   {
     title: "CubeSat NB",
     logo: csnbLogo,

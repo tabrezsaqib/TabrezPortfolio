@@ -46,7 +46,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="fs-primary-body fw-regular">
-            An innovative react developer who is passionate about building scalable, 
+            An innovative web developer who is passionate about building scalable, 
             performant, user-friendly web applications using the React library and 
             I am able to deliver high-quality code that meets the needs of clients and end-users.
           </p>

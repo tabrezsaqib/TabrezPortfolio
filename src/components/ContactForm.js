@@ -8,8 +8,9 @@ import emailjs from "@emailjs/browser";
 import { v4 as uuidv4 } from "uuid";
 
 const SERVICE_ID = "contact_service"; 
-const TEMPLATE_ID = "contact_form";
-const PUBLIC_KEY = "_W6L_5oStvWR06KXP";
+const TEMPLATE_ID = "template_lp18ccm";
+const PUBLIC_KEY = "GSMrb6F5QE-1D3--p";
+
 
 const ContactForm = () => {
   const { theme } = useTheme();
