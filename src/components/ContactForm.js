@@ -7,7 +7,7 @@ import * as Yup from "yup";
 import emailjs from "@emailjs/browser";
 import { v4 as uuidv4 } from "uuid";
 
-const SERVICE_ID = "contact_service"; 
+const SERVICE_ID = "service_9fgfryh"; 
 const TEMPLATE_ID = "template_lp18ccm";
 const PUBLIC_KEY = "GSMrb6F5QE-1D3--p";
 
