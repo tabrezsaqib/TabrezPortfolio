@@ -8,6 +8,7 @@ const PortfolioCard = ({ projectInfo }) => {
         src={projectInfo.thumbnail}
         alt={`${projectInfo.title} screenshot`}
         width="500px"
+        height="200px"
       />
       <div class="project-info">
         <div class="project-description">
@@ -27,7 +28,7 @@ const PortfolioCard = ({ projectInfo }) => {
               Live Demo
             </a>
           </button>{" "} */}
-          <button className="btn inverted">
+          {/* <button className="btn inverted">
             <a
               href={projectInfo.codeLink}
               className="uppercase"
@@ -36,7 +37,7 @@ const PortfolioCard = ({ projectInfo }) => {
             >
               Source Code
             </a>
-          </button>
+          </button> */}
         </div>
       </div>
     </li>

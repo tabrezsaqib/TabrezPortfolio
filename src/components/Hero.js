@@ -46,9 +46,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="fs-primary-body fw-regular">
-            An innovative web developer who is passionate about building scalable, 
-            performant, user-friendly web applications using the React library and 
-            I am able to deliver high-quality code that meets the needs of clients and end-users.
+          As a DevOps Engineer with a solid foundation in web development and a degree in Electrical and Computer Engineering, I bring a unique blend of skills to the table. I have a proven track record of designing and deploying scalable infrastructure using tools like Terraform, Kubernetes, and AWS. My experience includes automating deployment pipelines with Jenkins, managing containerized applications with Docker, and optimizing system performance with Prometheus and Grafana. I am passionate about leveraging my expertise to deliver high-quality, efficient, and secure solutions that meet the needs of clients and end-users
           </p>
           <button type="button" className="btn inverted uppercase ">
             <a href="#Projects">view projects</a>
