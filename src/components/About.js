@@ -38,8 +38,8 @@ In the realm of DevOps, I have designed and deployed infrastructure using Terraf
             </button>{" "}
             <button className="btn inverted">
               <a
-                href="https://drive.google.com/file/d/1-SV_8W4JHhrXh7-Y6JxCA6dCN3Vd-SfT/view?usp=sharing"
-                download="MohamedTabrezSaqib_UbaidurRahman_CV.pdf"
+                href="https://drive.google.com/file/d/1cS40bMfWDoJwMfEAuFd2zija9GJOeS3L/view?usp=sharing"
+                download="MohamedTabrezSaqib_UbaidurRahman_CV_DevOps_Engineer.pdf"
                 target="_blank"
                 className="uppercase"
                 rel="noopener noreferrer"

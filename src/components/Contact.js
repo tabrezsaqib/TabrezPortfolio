@@ -88,7 +88,7 @@ const Contact = () => {
               <iframe
                 title="location"
                 style={{ height: "100%", width: "100%", border: 0 }}
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2774.230044061824!2d-66.65099882516621!3d45.9466866011193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ca422118e4965ff%3A0x820fb246fb1a16be!2s796%20Hanson%20St%2C%20Fredericton%2C%20NB%20E3B%204A4!5e0!3m2!1sen!2sca!4v1703875271602!5m2!1sen!2sca"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.119528737977!2d80.25809017572307!3d12.964202515039096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d39301a3f6d%3A0xd1d1dc5139c5f097!2s163%2C%204th%20Link%20Rd%2C%20Palkalai%20Nagar%2C%20Palavakkam%2C%20Chennai%2C%20Tamil%20Nadu%20600041%2C%20India!5e0!3m2!1sen!2sca!4v1726065157062!5m2!1sen!2sca"
               />
             </div>
             <div
@@ -108,7 +108,7 @@ const Contact = () => {
                 <a className="icon-text" href="tel:+12508842465">
                   <h3>{callIcon}</h3>
                   <p className="text-footer fs-secondary-subheading fw-semi-bold ">
-                    +1 (506) 238-9059
+                    +91 (729) 918-4226
                   </p>
                 </a>
               </article>
