@@ -27,6 +27,6 @@ export const projects = [
   {
     title: "Wild Ryde App",
     thumbnail: wildrydeThumbnail,
-    info: "A helpful daily aid checklist to keep track of the daily chores of the day utilizing React and styled using CSS3."
+    info: "A ride-sharing app built using different services such as VCS, Amplify, Cognito, Lambda, API Gateway and Dynamo DB."
   },
 ];
