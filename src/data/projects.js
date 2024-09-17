@@ -11,7 +11,7 @@ export const projects = [
     title: "NB Plants Website",
     thumbnail: plantsThumbnail,
     info: "A graphic user interface for the Fredericton Botanical Garden Association using React.js, Next.js and WordPress to display the plants of New Brunswick.",
-    codeLink: "https://github.com/tabrezsaqib/devsite-latest",
+    codeLink: "https://github.com/tabrezsaqib/NBplantsBackup.git",
     liveLink: "https://newbrunswickplants.ca/",
   },
   {
