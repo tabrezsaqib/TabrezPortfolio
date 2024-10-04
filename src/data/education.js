@@ -5,16 +5,16 @@ export const education = {
   icon: eduIcon,
   list: [
     {
-      title: "Professional Certificate",
-      program: "Front-End Developer",
-      institution: "JPM Edu Solutions",
-      year: "Oct 2022 - Mar 2022",
-    },
-    {
       title: "Master's Degree, Engineering",
       program: "Electrical and Computer",
       institution: "University of New Brunswick",
       year: "Sept 2021 - Dec 2022",
+    },
+    {
+      title: "Microsoft Azure Certificate",
+      program: "AZ-900",
+      institution: "Microsoft",
+      year: "Dec 2020",
     },
     {
       title: "Bachelor's Degree, Engineering",

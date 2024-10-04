@@ -5,7 +5,7 @@ export const work = {
   icon: workIcon,
   list: [
     {
-      title: "Web Developer",
+      title: "DevOps Engineer",
       institution: "Fredericton Botanical Garden Association",
       program: "Part & Full Time - Contract Based",
       year: "Jun 2023 - Sep 2024",
@@ -17,7 +17,7 @@ export const work = {
       year: "May 2022 - Dec 2022",
     },
     {
-      title: "Application Development Analyst",
+      title: "DevOps Analyst",
       institution: "Accenture",
       program: "Full Time",
       year: "Aug 2018 - Aug 2021",

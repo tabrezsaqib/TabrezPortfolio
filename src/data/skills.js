@@ -17,11 +17,12 @@ import Terraform from "../assets/skills/Terraform.png"
 import Ansible from "../assets/skills/Ansible.png"
 import Jenkins from "../assets/skills/Jenkins.png"
 import Docker from "../assets/skills/Docker.png"
+import Azure from "../assets/skills/Azure.png"
 
 export const skills = [
   {
-    title: "HTML5",
-    logo: htmlLogo,
+    title: "Azure",
+    logo: Azure,
   },
   {
     title: "CSS3",
