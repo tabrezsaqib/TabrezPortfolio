@@ -8,7 +8,7 @@ export const education = {
       title: "Master's Degree, Engineering",
       program: "Electrical and Computer",
       institution: "University of New Brunswick",
-      year: "Sept 2021 - Dec 2022",
+      year: "Sept 2021 - May 2023",
     },
     {
       title: "Microsoft Azure Certificate",
