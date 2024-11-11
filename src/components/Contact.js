@@ -88,7 +88,7 @@ const Contact = () => {
               <iframe
                 title="location"
                 style={{ height: "100%", width: "100%", border: 0 }}
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.119528737977!2d80.25809017572307!3d12.964202515039096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d39301a3f6d%3A0xd1d1dc5139c5f097!2s163%2C%204th%20Link%20Rd%2C%20Palkalai%20Nagar%2C%20Palavakkam%2C%20Chennai%2C%20Tamil%20Nadu%20600041%2C%20India!5e0!3m2!1sen!2sca!4v1726065157062!5m2!1sen!2sca"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7776.180471168061!2d80.24405323370684!3d12.96607748247199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d64dc9c3b77%3A0x507eb41869a73144!2sMayfair!5e0!3m2!1sen!2sin!4v1731337581589!5m2!1sen!2sin"
               />
             </div>
             <div
