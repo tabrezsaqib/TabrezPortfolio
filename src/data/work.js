@@ -17,7 +17,7 @@ export const work = {
       year: "May 2022 - Dec 2022",
     },
     {
-      title: "DevOps Analyst",
+      title: "Application Development Analyst, DevOps Analyst",
       institution: "Accenture",
       program: "Full Time",
       year: "Aug 2018 - Aug 2021",
