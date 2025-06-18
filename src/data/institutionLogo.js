@@ -6,17 +6,18 @@ import JPM from "../assets/qualifications/JPM.png";
 import Anna from "../assets/qualifications/Anna.png";
 import ACN from "../assets/qualifications/ACN.png";
 import FPGA from "../assets/qualifications/FPGA.png";
+import Integrate from "../assets/qualifications/Integrate.png";
 
 export const institutionLogo = [
+  {
+    title: "Integrate Marketing Solutions Private Limited",
+    logo: Integrate,
+    link: "https://www.integrate.com/",
+  },
   {
     title: "Fredericton Botanical Garden Association",
     logo: FPGA,
     link: "https://www.frederictonbotanicgarden.com/",
-  },
-  {
-    title: "CubeSat NB",
-    logo: csnbLogo,
-    link: "https://www.unb.ca/initiatives/cubesat/",
   },
   {
     title: "Accenture India",
@@ -27,11 +28,6 @@ export const institutionLogo = [
     title: "University of New Brunswick",
     logo: unbLogo,
     link: "https://www.unb.ca/",
-  },
-  {
-    title: "JPM",
-    logo: JPM,
-    link: "https://www.jpmedusolutions.in/",
   },
   {
     title: "Anna University",

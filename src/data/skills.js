@@ -18,6 +18,11 @@ import Ansible from "../assets/skills/Ansible.png"
 import Jenkins from "../assets/skills/Jenkins.png"
 import Docker from "../assets/skills/Docker.png"
 import Azure from "../assets/skills/Azure.png"
+import DataDog from "../assets/skills/Datadog.png"
+import Prometheus from "../assets/skills/Prometheus.png"
+import Grafana from "../assets/skills/Grafana.png"
+import ShellScript from "../assets/skills/ShellScript.png"
+import Python from "../assets/skills/python.png"
 
 export const skills = [
   {
@@ -25,28 +30,8 @@ export const skills = [
     logo: Azure,
   },
   {
-    title: "CSS3",
-    logo: cssLogo,
-  },
-  {
-    title: "JavaScript",
-    logo: jsLogo,
-  },
-  {
-    title: "React",
-    logo: reactLogo,
-  },
-  {
     title: "AWS",
     logo: AWS,
-  },
-  {
-    title: "Next",
-    logo: nextLogo,
-  },
-  {
-    title: "WordPress",
-    logo: WordPress,
   },
   {
     title: "Kubernetes",
@@ -67,6 +52,25 @@ export const skills = [
   {
     title: "Ansible",
     logo: Ansible,
+  },
+  {
+    title: "DataDog",
+    logo: DataDog,
+  },
+  {
+    title: "Prometheus",
+    logo: Prometheus,
+  },
+  {
+    title: "Grafana",
+    logo: Grafana,
+  },
+  {
+    title: "ShellScript",
+    logo: ShellScript,
+  },
+  {
+    title: "Python",
+    logo: Python,
   }
-
 ];

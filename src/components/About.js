@@ -24,7 +24,7 @@ const About = () => {
             </h2>
           </div>
           <p className="fs-secondary-body fw-regular text-tertiary">
-          DevOps Engineer with a background in web development and a degree in Electrical and Computer Engineering. Experienced in designing and deploying scalable infrastructure using Terraform, Kubernetes, AWS, and Azure DevOps. Skilled in automating deployment pipelines with Jenkins, managing Docker containers, and optimizing performance with Prometheus and Grafana. Passionate about delivering efficient, secure solutions for clients and end-users.
+          DevOps Engineer with a degree in Electrical and Computer Engineering. Proven experience in designing and deploying scalable infrastructure using Terraform, Kubernetes, Azure, and AWS. Skilled in building end-to-end CI/CD pipelines with Jenkins and Azure DevOps, automating container image workflows, and managing Kafka infrastructure. Adept at enhancing observability by migrating to Prometheus and Grafana, and improving microservices security and traffic control using Istio. Passionate about delivering efficient, secure, and cost-effective solutions through automation and collaboration.
           </p>
           <div className="about-button-container">
             <button className="btn inverted">
@@ -34,7 +34,7 @@ const About = () => {
             </button>{" "}
             <button className="btn inverted">
               <a
-                href="https://drive.google.com/file/d/1cS40bMfWDoJwMfEAuFd2zija9GJOeS3L/view?usp=sharing"
+                href="https://drive.google.com/file/d/1CL7LmT9rLIVKsjG5cJungCTf_C_DpmQg/view?usp=sharing"
                 download="MohamedTabrezSaqib_UbaidurRahman_CV_DevOps_Engineer.pdf"
                 target="_blank"
                 className="uppercase"
